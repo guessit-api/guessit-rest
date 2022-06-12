@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: guessitrest -p $PORT
+  web: python3 guessitrest -p $PORT
