@@ -1,0 +1,8 @@
+{
+	"name": "GuessIt",
+	"description": "GuessIt",
+	"repository": "https://github.com/guessit-io/guessit-rest",
+	"keywords": ["guessit","Python"],
+	},
+    	"stack": "container"
+}
